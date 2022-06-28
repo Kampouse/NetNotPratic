@@ -1,10 +1,11 @@
 NetPractice or we forgot to tell you what is a network and now you have to 'fix' it 
 -----
 NetPractice is based of a few thing such as <br>
->(router)
->(Client)
->(switch)
->(Route)
+>(router)<br>
+>(Client)<br>
+>(switch)<br>
+>(Route)<br>
+
 each of these are  linked with two things
 	-> ip:93.5.4.193
 	-> Mask:( /26) or  255.255.255.240
