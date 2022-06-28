@@ -19,3 +19,7 @@ interface 'R'
 
 switch will alway have the same mask between R and the other element in  the same network 
 the ip ending will aways  be the same  or similar
+![Tux, the Linux mascot](./image1.png)
+
+- want to  actualy start learning have solutin and description of each level
+[lpaube](URL 'https://github.com/lpaube/NetPractice')
